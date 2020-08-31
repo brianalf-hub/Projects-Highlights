@@ -15,6 +15,7 @@ Welcome to my professional data science portfolio. My name is Brian Alfaro. As I
 
 
 ![image](https://user-images.githubusercontent.com/70289096/91760155-14806c00-eb90-11ea-8b04-f7d0e000de45.png)
+### Agricultural crops are threatened by rapid global changes in our environment, which includes climatic factors. I concatenated USDA seed accession data sets for five species of Brassica that produce canola oil to detemine and predict how canola yield is affected by global climate. To determine the climate-yield model, I performed a spatially-corrected model selection procedure to thin out climate variables, then a Bayesian approach to predict oil yields. After determining the climate-yield model for each species, I will use the resulting data from each model to train a  machine learning regression model to predict how yield from each species will change given specific future yield scenarios. 
 
 
 
