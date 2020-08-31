@@ -18,8 +18,10 @@ Welcome to my professional data science portfolio. My name is Brian Alfaro. As I
 <br />
 <br />
 
-![image](https://user-images.githubusercontent.com/70289096/91760155-14806c00-eb90-11ea-8b04-f7d0e000de45.png)
-### Agricultural crops are threatened by rapid global changes in our environment, which includes climatic factors. I concatenated USDA seed accession data sets for five species of Brassica that produce canola oil to detemine and predict how canola yield is affected by global climate. To determine the climate-yield model, I performed a spatially-corrected model selection procedure to thin out climate variables, then a Bayesian approach to predict oil yields. After determining the climate-yield model for each species, I will use the resulting data from each model to train a  machine learning regression model to predict how yield from each species will change given specific future yield scenarios. 
+<p align="center">
+  <img width="630" height="450" src="https://user-images.githubusercontent.com/70289096/91776786-67b3e800-ebab-11ea-910b-d36aad524a10.png">
+</p>
+### Second to anthropogenic habitat degradation, invasive plants are a major factor for loss of global biodiversity. We used vegetation survey data collected by the U.S. Geological Survey from 1997 to 2007, and climate data from WorldClim (https://www.worldclim.org/data/worldclim21.html) to identify and predict climatic factors that affect the diversity of invasive plants in the southwestern United States.
 <br />
 <br />
 <br />
