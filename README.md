@@ -33,10 +33,9 @@ Welcome to my professional data science portfolio. My name is Brian Alfaro. As I
 <br />
 
 <p align="center">
-  <img width="1150" height="350" src="https://user-images.githubusercontent.com/70289096/91903869-30a00e00-ec61-11ea-92ec-8b0fb9c5512e.png">
+  <img width="100" height="350" src="https://user-images.githubusercontent.com/70289096/91903869-30a00e00-ec61-11ea-92ec-8b0fb9c5512e.png">
 </p>
 
-### Agricultural crop yield are projected to suffer in the face of increasing world population and rapid global changes that include environmental and climatic factors. To determine how rapidly changing climate variation will affect canola oil yields, I used georeferenced USDA seed accession data to calculate regional averages of oil yields, and climate data from WorldClim (https://www.worldclim.org/data/worldclim21.html) to identify and predict climatic factors that affect the diversity of invasive plants in the southwestern United States.
-
+### Agricultural crop yields are projected to become insufficient in the face of increasing world population and rapid global changes that include environmental and climatic factors. To determine how rapidly changing climate variation will affect canola oil yields, I used georeferenced USDA seed accession data to calculate regional averages of oil yields, and climate data from WorldClim (https://www.worldclim.org/data/worldclim21.html) to identify and predict climatic factors that affect global canola production. 
 
 
