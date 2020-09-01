@@ -14,6 +14,7 @@ Welcome to my professional data science portfolio. My name is Brian Alfaro. As I
 
 ### The first project examined how the association of oceanic environments and animal physiology interact to shape global patterns of biodiversity in our oceans. For this project, I mined and cleaned the data and was in charge of geographic information system (GIS) analysis that used more than 1 million data points (Grady et al. 2019, Science). 
 
+### Grady, J. M., B. S. Maitner, A. S. Winter, K. Kaschner, D. P. Tittensor, S. Record, F. A. Smith, A. M. Wilson, A. I. Dell, P. L. Zarnetske, H. J. Wearing, B. Alfaro, J. H. Brown. 2018. Metabolic asymmetry and the global diversity of marine predators. Science.
 <br />
 <br />
 <br />
