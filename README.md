@@ -33,10 +33,10 @@ Welcome to my professional data science portfolio. My name is Brian Alfaro. As I
 <br />
 
 <p align="center">
-  <img width="100" height="450" src="https://user-images.githubusercontent.com/70289096/91903551-a35cb980-ec60-11ea-93a3-2bf319eaa6f0.png">
+  <img width="1150" height="350" src="https://user-images.githubusercontent.com/70289096/91903869-30a00e00-ec61-11ea-92ec-8b0fb9c5512e.png">
 </p>
 
-### Second to anthropogenic habitat degradation, invasive plants are a major factor for loss of global biodiversity. We used vegetation survey data collected by the U.S. Geological Survey from 1997 to 2007, and climate data from WorldClim (https://www.worldclim.org/data/worldclim21.html) to identify and predict climatic factors that affect the diversity of invasive plants in the southwestern United States.
+### Agricultural crop yield are projected to suffer in the face of increasing world population and rapid global changes that include environmental and climatic factors. To determine how rapidly changing climate variation will affect canola oil yields, I used georeferenced USDA seed accession data to calculate regional averages of oil yields, and climate data from WorldClim (https://www.worldclim.org/data/worldclim21.html) to identify and predict climatic factors that affect the diversity of invasive plants in the southwestern United States.
 
 
 
