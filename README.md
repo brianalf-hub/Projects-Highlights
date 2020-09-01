@@ -9,11 +9,10 @@ Welcome to my professional data science portfolio. My name is Brian Alfaro. As I
 <br />
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/70289096/91906375-50d1cc00-ec65-11ea-8f29-f3a410a26d0e.png">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/70289096/91906759-f5eca480-ec65-11ea-84bd-383c1be4b22c.png">
 </p>
 
-### The first project examined how the association of oceanic environments and animal physiology interact to shape global patterns of biodiversity in our oceans. For this project, I mined and cleaned the data and was in charge of geographic information system (GIS) analysis that used more than 1 million data points. [https://science.sciencemag.org/content/363/6425/eaat4220](url)
-
+### The first project examined how the association of oceanic environments and animal physiology interact to shape global patterns of biodiversity in our oceans. For this project, I mined and cleaned the data and was in charge of geographic information system (GIS) analysis that used more than 1 million data points (Grady et al. 2019, Science). 
 
 <br />
 <br />
