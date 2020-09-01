@@ -21,10 +21,11 @@ Welcome to my professional data science portfolio. My name is Brian Alfaro. As I
 <br />
 
 <p align="center">
-  <img width="1500" height="750" src="https://user-images.githubusercontent.com/70289096/91776786-67b3e800-ebab-11ea-910b-d36aad524a10.png">
+  <img width="1500" height="750" src="https://user-images.githubusercontent.com/70289096/91906991-4b28b600-ec66-11ea-9a9d-c1fbbe25a473.png">
 </p>
 
 ### Second to anthropogenic habitat degradation, invasive plants are a major factor for loss of global biodiversity. We used vegetation survey data collected by the U.S. Geological Survey from 1997 to 2007, and climate data from WorldClim (https://www.worldclim.org/data/worldclim21.html) to identify and predict climatic factors that affect the diversity of invasive plants in the southwestern United States.
+
 
 <br />
 <br />
@@ -36,6 +37,6 @@ Welcome to my professional data science portfolio. My name is Brian Alfaro. As I
   <img width="900" height="350" src="https://user-images.githubusercontent.com/70289096/91903869-30a00e00-ec61-11ea-92ec-8b0fb9c5512e.png">
 </p>
 
-### Agricultural crop yields are projected to become insufficient in the face of increasing world population and rapid global changes that include environmental and climatic factors. To determine how rapidly changing climate variation will affect canola oil yields, I used georeferenced USDA seed accession data to calculate regional averages of oil yields, and climate data from WorldClim (https://www.worldclim.org/data/worldclim21.html). I then used the GIS capabilities of R to 1) perform a spatially-filtered model selection of climatic variables via a maximum likelihood ratio approach, and to 2) perform Bayesian spatial modeling to create a GIS map prediction of global oil yields. I will use the predicted database from this GIS model to train a regression model and use machine learning to predict how canola oil yield will respond to different future climate change scenarios. 
+### Agricultural crop yields are projected to become insufficient in the face of increasing world population and rapid global changes that include environmental and climatic factors. To determine how rapidly changing climate variation will affect canola oil yields, I used georeferenced USDA seed accession data to calculate regional averages of oil yields and climate data from WorldClim (https://www.worldclim.org/data/worldclim21.html). I then used the GIS capabilities of R to 1) perform a spatially-filtered model selection of climatic variables via a maximum likelihood ratio approach, and to 2) perform Bayesian spatial modeling to create a GIS map prediction of global oil yields. We found that mean annual temperature and seasonal temperature variation strongly affect canola yield when all species are pooled (shown above), but separate analyses (not shown) indicate that yield in different species respond differently to temperature variables. I will use the predicted database from this GIS model to train regression models and use machine learning to predict how canola oil yield will respond to different future climate change scenarios. 
 
 
