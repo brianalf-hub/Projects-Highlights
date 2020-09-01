@@ -23,7 +23,9 @@ Welcome to my professional data science portfolio. My name is Brian Alfaro. As I
 <p align="center">
   <img width="730" height="550" src="https://user-images.githubusercontent.com/70289096/91776786-67b3e800-ebab-11ea-910b-d36aad524a10.png">
 </p>
+
 ### Second to anthropogenic habitat degradation, invasive plants are a major factor for loss of global biodiversity. We used vegetation survey data collected by the U.S. Geological Survey from 1997 to 2007, and climate data from WorldClim (https://www.worldclim.org/data/worldclim21.html) to identify and predict climatic factors that affect the diversity of invasive plants in the southwestern United States.
+
 <br />
 <br />
 <br />
