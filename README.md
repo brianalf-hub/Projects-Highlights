@@ -36,10 +36,15 @@ Welcome to my professional data science portfolio. My name is Brian Alfaro. As I
 <br />
 
 <p align="center">
-  <img width="900" height="350" src="https://user-images.githubusercontent.com/70289096/91903869-30a00e00-ec61-11ea-92ec-8b0fb9c5512e.png">
-</p>
+  <img width="900" height="350" src="https://user-images.githubusercontent.com/70289096/92418985-df43c300-f127-11ea-80f7-850fd36ec6ad.png">
 
+<p align="center">
+  <img width="900" height="350" src="https://user-images.githubusercontent.com/70289096/92418927-8542fd80-f127-11ea-93ba-8a721ed64524.png">
+
+<p align="center">
+  <img width="900" height="350" src="https://user-images.githubusercontent.com/70289096/92418950-9c81eb00-f127-11ea-9c4b-176001e393f5.png">
+
+</p>
 ### Background. Agricultural crop yields are projected to become insufficient in the face of increasing world population and rapid global changes that include environmental and climatic factors. To determine how rapidly changing climate variation will affect canola oil yields, I used georeferenced USDA seed accession data to calculate regional averages of oil yields and climate data from WorldClim (https://www.worldclim.org/data/worldclim21.html). I then used the GIS capabilities of R to 1) perform a spatially-filtered model selection of climatic variables via a maximum likelihood ratio approach, and to 2) perform Bayesian spatial modeling to create a GIS map prediction of global oil yields. 
 ### Results. We found that mean annual temperature and seasonal temperature variation strongly affect canola yield when all species are pooled, but when projected to a predictive map, the hot spots of oil abundance (flame yellow in the figure above) coincides to regions with contrasting climates. Separate analyses (not shown) indicate that yield in different species respond differently to temperature variables, so I will use the predicted database from this GIS model to train regression models and use machine learning to predict how canola oil yield will respond to different future climate change scenarios. 
-
 
