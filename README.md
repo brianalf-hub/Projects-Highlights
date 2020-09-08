@@ -5,7 +5,10 @@
 <br />
 
 ## Phenotypic variation of life‐history traits in native, invasive, and landrace populations of *Brassica tournefortii*
-1. [Overview of Chapter 1 of Dissertation](https://github.com/brianalf-hub/dissertationcodes)
+
+### Implications of study. While we would have liked more samples and locations in our study, it is not feasible given the amounts of traits that we measured. However, we have shown that to have a strong understanding of agricultural, land management, and/or conservation problems of a target species, we need to begin by assessing how a certain cultivar, variety, or genotype will respond to certain local conditions. 
+
+1. [Overview of Chapter 1 of Dissertation](https://github.com/brianalf-hub/dissertationcodes/blob/master/CH1Overview.md)
 2. [General method for PCA in R](https://github.com/brianalf-hub/dissertationcodes/blob/master/ch1.pca)
 
 
