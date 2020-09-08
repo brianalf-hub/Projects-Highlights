@@ -6,15 +6,12 @@
 
 ## Phenotypic variation of life‐history traits in native, invasive, and landrace populations of *Brassica tournefortii*
 
-### Implications of study. While we would have liked more samples and locations in our study, it is not feasible given the amounts of traits that we measured. However, we have shown that to have a strong understanding of agricultural, land management, and/or conservation problems of a target species, we need to begin by assessing how a certain cultivar, variety, or genotype will respond to certain local conditions. 
+### Implications of study. In this study, we first used principal components analysis (PCA) to narrow down our trait variables to six composite groups. We ran ANOVA, linear regressions, and generalized additive modeling to describe genetic and evolutionary patterns. We have shown that to have a strong understanding of agricultural, land management, and/or conservation problems of a target species, we need to begin by assessing how a certain cultivar, variety, or genotype will respond to certain local conditions. 
 
 1. [Overview of Chapter 1 of Dissertation](https://github.com/brianalf-hub/dissertationcodes/blob/master/CH1Overview.md)
 2. [General method for PCA in R](https://github.com/brianalf-hub/dissertationcodes/blob/master/ch1.pca)
 
-
-
 <br />
-
 
 ## Environmental factors affecting annual and perennial invasive plants in the American Southwest
 
