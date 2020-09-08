@@ -26,7 +26,7 @@
 
 ### Importance of study. Canola oil is an important food ingredient, and can also be used as a biofuel. By expanding this model, I can determine which climatic factors affect yield for each *Brassica* oil crop. The resulting predictive model can provide a guide that shows which regions in the world these canola species can grow and produce oil abundantly, so growers both small- and industrial-scale can plan their crops accordingly. 
 
-1. [Overview of spatial modeling project - Global Canola](https://github.com/brianalf-hub/canolaoilprediction/blob/master/README.md)
+1. [Overview of spatial modeling project - Global Canola](https://github.com/brianalf-hub/canolaoilprediction/blob/master/CanolaOverview.md)
 2. [General method INLA Bayesian approximation and GIS modeling approach in R](https://github.com/brianalf-hub/canolaoilprediction/blob/master/INLA%20%26%20GIS%20codes)
 
 ## Metabolic asymmetry and the global diversity of marine predators
