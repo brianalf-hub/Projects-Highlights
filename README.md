@@ -55,6 +55,7 @@
   <img width="900" height="350" src="https://user-images.githubusercontent.com/70289096/92419039-3ea1d300-f128-11ea-8a19-d9709feef8de.png">
 
 </p>
+
 ## Background. Agricultural crop yields are projected to become insufficient in the face of increasing world population and rapid global changes that include environmental and climatic factors. To determine how rapidly changing climate variation will affect canola oil yields, I used georeferenced USDA seed accession data to calculate regional averages of oil yields and climate data from WorldClim (https://www.worldclim.org/data/worldclim21.html). I then used the GIS capabilities of R to 1) perform a spatially-filtered model selection of climatic variables via a maximum likelihood ratio approach, and to 2) perform Bayesian spatial modeling to create a GIS map prediction of global oil yields. 
 <br />
 <br />
