@@ -15,11 +15,8 @@
 
 
 ### Background. We examined how the association of oceanic environments and animal physiology interact to shape global patterns of biodiversity in our oceans. For this project, I mined and cleaned the data and was in charge of geographic information system (GIS) analysis that used more than 1 million data points (Grady et al. 2019, Science). 
-<br />
-
 
 ### Results. The pattern of marine predator diversity is opposite the pattern of animals in land. In terrestrial environments, the highest diversity is in the tropics, while for marine predators the highest amount of species richness is in the polar regions. This pattern, while driven by environmental factors, is largely due to the physiology of marine predators and prey. In cold waters the capture of cold-blooded prey is easier, so warm-blooded predators tend to swarm polar regions. 
-<br />
 
 ### Grady, J. M., B. S. Maitner, A. S. Winter, K. Kaschner, D. P. Tittensor, S. Record, F. A. Smith, A. M. Wilson, A. I. Dell, P. L. Zarnetske, H. J. Wearing, B. Alfaro, J. H. Brown. 2018. Metabolic asymmetry and the global diversity of marine predators. Science.
 <br />
@@ -51,7 +48,6 @@
 </p>
 
 ### Background. Agricultural crop yields are projected to become insufficient in the face of increasing world population and rapid global changes that include environmental and climatic factors. To determine how rapidly changing climate variation will affect canola oil yields, I used georeferenced USDA seed accession data to calculate regional averages of oil yields and climate data from WorldClim (https://www.worldclim.org/data/worldclim21.html). I then used the GIS capabilities of R to 1) perform a spatially-filtered model selection of climatic variables via a maximum likelihood ratio approach, and to 2) perform Bayesian spatial modeling to create a GIS map prediction of global oil yields. 
-<br />
 
 ### Results. We found that mean annual temperatures and temperatures at wettest quarter strongly affect canola yield in similar patterns when all species are pooled, but when all temperature variables are projected to a predictive map (annual temperature, temperature seasonality, and temperatures at the wettest quarter), the hot spots of oil abundance (flame yellow in the figure above) coincided to regions with contrasting climates. We further identified sources of these patterns by running the same analyses in separate species (not shown). For example, carinata is a warm-climate crop, and consequently its yield is higher in regions such as Africa and warmer parts of Asia. After building temperature-yield models for each species, I will use the predicted database from these spatial models to train regression models and use machine learning to predict how canola oil yield will respond to different future climate change scenarios. 
 
