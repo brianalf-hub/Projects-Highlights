@@ -3,12 +3,12 @@
 ### Welcome to my projects README. My name is Brian Alfaro. As I am typing this text, I am still a PhD candidate at the University of New Mexico (UNM, Albuquerque) in Prof. Diane L. Marshall's lab, but if you are reading this a couple of months from my first addition, then I may already be holding my doctorate in plant ecological genetics. While my expertise is in experimental plant biology, throughout my career in graduate school I was/am involved in three academic big data projects in our department. <br />
 
 <br />
-<br />
 
-<p align="center"> 
-<## Metabolic asymmetry and the global diversity of marine predators>
-</p>
 
+
+## Metabolic asymmetry and the global diversity of marine predators
+
+    
 <p align="center">
     <img width="460" height="300" src="https://user-images.githubusercontent.com/70289096/91906759-f5eca480-ec65-11ea-84bd-383c1be4b22c.png">
 </p>
