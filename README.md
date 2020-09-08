@@ -6,7 +6,7 @@
 
 ## Phenotypic variation of life‐history traits in native, invasive, and landrace populations of *Brassica tournefortii*
 1. [Overview of Chapter 1 of Dissertation](https://github.com/brianalf-hub/dissertationcodes)
-2. [General method for PCA in R](https://github.com/brianalf-hub/dissertationcodes/blob/master/ch1.pcas)
+2. [General method for PCA in R](https://github.com/brianalf-hub/dissertationcodes/blob/master/ch1.pca)
 
 
 
