@@ -15,6 +15,8 @@
 
 ## Environmental factors affecting annual and perennial invasive plants in the American Southwest
 
+### Importance of study. Recent calculations the cost of impact and management of invasive species in the United States is approximately $120 billion annually (Pimentel, Zuniga, and Morrison 2005). It is therefore critical to indentify the natural and anthropogenic environmental factors that affect their diversity and distribution. Here, I identified the most highly ranked variables and regression models to determine which is the strongest factor for annual and perennial invasive species abundance and distribution. Then, I created a spatial model in R to be able to identify hotspots of invasive plant diversity in the southwest. 
+
 1. [Overview of spatial modeling project - SWEMP](https://github.com/brianalf-hub/swemp/blob/master/README.md)
 2. [General method INLA Bayesian approximation and GIS modeling approach in R](https://github.com/brianalf-hub/swemp/blob/master/codes)
 
