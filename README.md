@@ -31,7 +31,7 @@
 ## Environmental factors affecting annual and perennial invasive plants in the American Southwest
 
 1. [Overview of spatial modeling project - SWEMP](https://github.com/brianalf-hub/swemp/blob/master/README.md)
-2. [General method for PCA in R](https://github.com/brianalf-hub/dissertationcodes/blob/master/ch1.pca)
+2. [General method INLA Bayesian approximation and GIS modeling approach in R](https://github.com/brianalf-hub/swemp/blob/master/codes)
 
 <br />
 
