@@ -4,8 +4,7 @@
 
 <br />
 <br />
-<br />
-<br />
+
 
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/70289096/91906759-f5eca480-ec65-11ea-84bd-383c1be4b22c.png">
@@ -23,9 +22,6 @@
 ### Grady, J. M., B. S. Maitner, A. S. Winter, K. Kaschner, D. P. Tittensor, S. Record, F. A. Smith, A. M. Wilson, A. I. Dell, P. L. Zarnetske, H. J. Wearing, B. Alfaro, J. H. Brown. 2018. Metabolic asymmetry and the global diversity of marine predators. Science.
 <br />
 <br />
-<br />
-<br />
-<br />
 
 <p align="center">
   <img width="600" height="500" src="https://user-images.githubusercontent.com/70289096/91906991-4b28b600-ec66-11ea-9a9d-c1fbbe25a473.png">
@@ -38,9 +34,6 @@
 
 ### Results. I determined that the highest-ranked model was precipitation for annuals, and temperature for perennials. The next step is for me to rasterize the GIS model and then extract values to train a machine learning regression model to predict how annual and perennial invasive plants will spead several decades from our current time. 
 
-<br />
-<br />
-<br />
 <br />
 <br />
 
