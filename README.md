@@ -12,15 +12,15 @@
 </p>
 
 
-## Background. We examined how the association of oceanic environments and animal physiology interact to shape global patterns of biodiversity in our oceans. For this project, I mined and cleaned the data and was in charge of geographic information system (GIS) analysis that used more than 1 million data points (Grady et al. 2019, Science). 
+### Background. We examined how the association of oceanic environments and animal physiology interact to shape global patterns of biodiversity in our oceans. For this project, I mined and cleaned the data and was in charge of geographic information system (GIS) analysis that used more than 1 million data points (Grady et al. 2019, Science). 
 <br />
 <br />
 
-## Results. The pattern of marine predator diversity is opposite the pattern of animals in land. In terrestrial environments, the highest diversity is in the tropics, while for marine predators the highest amount of species richness is in the polar regions. This pattern, while driven by environmental factors, is largely due to the physiology of marine predators and prey. In cold waters the capture of cold-blooded prey is easier, so warm-blooded predators tend to swarm polar regions. 
+### Results. The pattern of marine predator diversity is opposite the pattern of animals in land. In terrestrial environments, the highest diversity is in the tropics, while for marine predators the highest amount of species richness is in the polar regions. This pattern, while driven by environmental factors, is largely due to the physiology of marine predators and prey. In cold waters the capture of cold-blooded prey is easier, so warm-blooded predators tend to swarm polar regions. 
 <br />
 <br />
 
-## Grady, J. M., B. S. Maitner, A. S. Winter, K. Kaschner, D. P. Tittensor, S. Record, F. A. Smith, A. M. Wilson, A. I. Dell, P. L. Zarnetske, H. J. Wearing, B. Alfaro, J. H. Brown. 2018. Metabolic asymmetry and the global diversity of marine predators. Science.
+### Grady, J. M., B. S. Maitner, A. S. Winter, K. Kaschner, D. P. Tittensor, S. Record, F. A. Smith, A. M. Wilson, A. I. Dell, P. L. Zarnetske, H. J. Wearing, B. Alfaro, J. H. Brown. 2018. Metabolic asymmetry and the global diversity of marine predators. Science.
 <br />
 <br />
 <br />
@@ -36,7 +36,7 @@
 <br />
 <br />
 
-## Results. I determined that the highest-ranked model was precipitation for annuals, and temperature for perennials. The next step is for me to rasterize the GIS model and then extract values to train a machine learning regression model to predict how annual and perennial invasive plants will spead several decades from our current time. 
+### Results. I determined that the highest-ranked model was precipitation for annuals, and temperature for perennials. The next step is for me to rasterize the GIS model and then extract values to train a machine learning regression model to predict how annual and perennial invasive plants will spead several decades from our current time. 
 
 <br />
 <br />
@@ -55,8 +55,8 @@
 
 </p>
 
-## Background. Agricultural crop yields are projected to become insufficient in the face of increasing world population and rapid global changes that include environmental and climatic factors. To determine how rapidly changing climate variation will affect canola oil yields, I used georeferenced USDA seed accession data to calculate regional averages of oil yields and climate data from WorldClim (https://www.worldclim.org/data/worldclim21.html). I then used the GIS capabilities of R to 1) perform a spatially-filtered model selection of climatic variables via a maximum likelihood ratio approach, and to 2) perform Bayesian spatial modeling to create a GIS map prediction of global oil yields. 
+### Background. Agricultural crop yields are projected to become insufficient in the face of increasing world population and rapid global changes that include environmental and climatic factors. To determine how rapidly changing climate variation will affect canola oil yields, I used georeferenced USDA seed accession data to calculate regional averages of oil yields and climate data from WorldClim (https://www.worldclim.org/data/worldclim21.html). I then used the GIS capabilities of R to 1) perform a spatially-filtered model selection of climatic variables via a maximum likelihood ratio approach, and to 2) perform Bayesian spatial modeling to create a GIS map prediction of global oil yields. 
 <br />
 <br />
 
-## Results. We found that mean annual temperature and seasonal temperature variation strongly affect canola yield when all species are pooled, but when projected to a predictive map, the hot spots of oil abundance (flame yellow in the figure above) coincides to regions with contrasting climates. Separate analyses (not shown) indicate that yield in different species respond differently to temperature variables, so I will use the predicted database from this GIS model to train regression models and use machine learning to predict how canola oil yield will respond to different future climate change scenarios. 
+### Results. We found that mean annual temperature and seasonal temperature variation strongly affect canola yield when all species are pooled, but when projected to a predictive map, the hot spots of oil abundance (flame yellow in the figure above) coincides to regions with contrasting climates. Separate analyses (not shown) indicate that yield in different species respond differently to temperature variables, so I will use the predicted database from this GIS model to train regression models and use machine learning to predict how canola oil yield will respond to different future climate change scenarios. 
