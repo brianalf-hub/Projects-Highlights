@@ -32,7 +32,7 @@
 </p>
 
 
-## Background. Second to anthropogenic habitat degradation, invasive plants are a major factor for loss of global biodiversity. I used vegetation survey data collected by the U.S. Geological Survey from 1997 to 2007, and climate data from WorldClim (https://www.worldclim.org/data/worldclim21.html) to identify and predict climatic factors that affect the diversity of invasive plants in the southwestern United States. To combine the vegetation data (vector) with environmental data (raster), I used QGIS (Python) and R to extract and combine these two data sets. Then, I used a spatially-filtered model selection of climatic and anthropogenic variables via a maximum likelihood ratio approach, and to run Bayesian spatial modeling to create a GIS map prediction of annual and perennial invasive plants. 
+### Background. Second to anthropogenic habitat degradation, invasive plants are a major factor for loss of global biodiversity. I used vegetation survey data collected by the U.S. Geological Survey from 1997 to 2007, and climate data from WorldClim (https://www.worldclim.org/data/worldclim21.html) to identify and predict climatic factors that affect the diversity of invasive plants in the southwestern United States. To combine the vegetation data (vector) with environmental data (raster), I used QGIS (Python) and R to extract and combine these two data sets. Then, I used a spatially-filtered model selection of climatic and anthropogenic variables via a maximum likelihood ratio approach, and to run Bayesian spatial modeling to create a GIS map prediction of annual and perennial invasive plants. 
 <br />
 <br />
 
