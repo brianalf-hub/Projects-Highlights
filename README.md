@@ -24,6 +24,8 @@
 ### Grady, J. M., B. S. Maitner, A. S. Winter, K. Kaschner, D. P. Tittensor, S. Record, F. A. Smith, A. M. Wilson, A. I. Dell, P. L. Zarnetske, H. J. Wearing, B. Alfaro, J. H. Brown. 2018. Metabolic asymmetry and the global diversity of marine predators. Science.
 <br />
 
+## Environmental factors affecting annual and perennial invasive plants in the American Southwest
+
 <p align="center">
   <img width="600" height="500" src="https://user-images.githubusercontent.com/70289096/91906991-4b28b600-ec66-11ea-9a9d-c1fbbe25a473.png">
 </p>
@@ -34,6 +36,8 @@
 
 ### Results. I determined that the highest-ranked model was precipitation for annuals, and temperature for perennials. The next step is for me to rasterize the GIS model and then extract values to train a machine learning regression model to predict how annual and perennial invasive plants will spead several decades from our current time. 
 <br />
+
+## The effect of bio-climatic factors on global yield of canola oil
 
 <p align="center">
   <img width="900" height="350" src="https://user-images.githubusercontent.com/70289096/92419145-d3a4cc00-f128-11ea-8b87-123ca34633fe.png">
@@ -49,4 +53,6 @@
 ### Background. Agricultural crop yields are projected to become insufficient in the face of increasing world population and rapid global changes that include environmental and climatic factors. To determine how rapidly changing climate variation will affect canola oil yields, I used georeferenced USDA seed accession data to calculate regional averages of oil yields and climate data from WorldClim (https://www.worldclim.org/data/worldclim21.html). I then used the GIS capabilities of R to 1) perform a spatially-filtered model selection of climatic variables via a maximum likelihood ratio approach, and to 2) perform Bayesian spatial modeling to create a GIS map prediction of global oil yields. 
 <br />
 
-### Results. We found that mean annual temperature and seasonal temperature variation strongly affect canola yield when all species are pooled, but when projected to a predictive map, the hot spots of oil abundance (flame yellow in the figure above) coincides to regions with contrasting climates. Separate analyses (not shown) indicate that yield in different species respond differently to temperature variables, so I will use the predicted database from this GIS model to train regression models and use machine learning to predict how canola oil yield will respond to different future climate change scenarios. 
+### Results. We found that mean annual temperatures and temperatures at wettest quarter strongly affect canola yield in similar patterns when all species are pooled, but when all temperature variables are projected to a predictive map (annual temperature, temperature seasonality, and temperatures at the wettest quarter), the hot spots of oil abundance (flame yellow in the figure above) coincided to regions with contrasting climates. We further identified sources of these patterns by running the same analyses in separate species (not shown). For example, carinata is a warm-climate crop, and consequently its yield is higher in regions such as Africa and warmer parts of Asia. After building temperature-yield models for each species, I will use the predicted database from these spatial models to train regression models and use machine learning to predict how canola oil yield will respond to different future climate change scenarios. 
+
+### Importance of study. Canola oil is an important food ingredient, and can also be used as a biofuel. By expanding this model, I can determine which climatic factors affect yield for each *Brassica* oil crop. The resulting predictive model can provide a guide that shows which regions in the world these canola species can grow and produce oil abundantly, so growers both small- and industrial-scale can plan their crops accordingly. 
