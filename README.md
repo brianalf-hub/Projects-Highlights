@@ -6,7 +6,7 @@
 <br />
 
 <p align="center"> 
- ## Metabolic asymmetry and the global diversity of marine predators
+<## Metabolic asymmetry and the global diversity of marine predators>
 </p>
 
 <p align="center">
@@ -17,6 +17,7 @@
 ### Background. We examined how the association of oceanic environments and animal physiology interact to shape global patterns of biodiversity in our oceans. For this project, I mined and cleaned the data and was in charge of geographic information system (GIS) analysis that used more than 1 million data points (Grady et al. 2019, Science). 
 <br />
 <br />
+
 ### Results. The pattern of marine predator diversity is opposite the pattern of animals in land. In terrestrial environments, the highest diversity is in the tropics, while for marine predators the highest amount of species richness is in the polar regions. This pattern, while driven by environmental factors, is largely due to the physiology of marine predators and prey. In cold waters the capture of cold-blooded prey is easier, so warm-blooded predators tend to swarm polar regions. 
 <br />
 <br />
