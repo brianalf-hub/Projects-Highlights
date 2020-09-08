@@ -1,6 +1,6 @@
-# Data-science-portfolio
+# Academic and Professional Projects
 
-Welcome to my professional data science portfolio. My name is Brian Alfaro. As I am typing this text, I am still a PhD candidate at the University of New Mexico (UNM, Albuquerque), but if you are reading this a couple of months from my first addition, then I may already be holding my doctorate in plant ecological genetics. While my expertise is in experimental plant biology, throughout my career in graduate school I was/am involved in three academic big data projects in our department. <br />
+Welcome to my projects README. My name is Brian Alfaro. As I am typing this text, I am still a PhD candidate at the University of New Mexico (UNM, Albuquerque), but if you are reading this a couple of months from my first addition, then I may already be holding my doctorate in plant ecological genetics. While my expertise is in experimental plant biology, throughout my career in graduate school I was/am involved in three academic big data projects in our department. <br />
 
 <br />
 <br />
